@@ -1,0 +1,9 @@
+Package: com.noisyflake.cleardock12
+Name: ClearDock12
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide the dock background
+Maintainer: NoisyFlake
+Author: NoisyFlake
+Section: Tweaks
